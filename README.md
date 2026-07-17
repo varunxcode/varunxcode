@@ -1,4 +1,3 @@
+### [Build Custom RAG Chatbots](https://github.com/varunxcode/custom_rag_agents_vrx)
 
-https://github.com/varunxcode/custom_rag_agents_vrx
-
-https://github.com/varunxcode/eeg
+### [EEG-Based Brain-Computer Innterface](https://github.com/varunxcode/eeg)
